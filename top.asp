@@ -57,12 +57,12 @@
                                 <nav class="main__menu__nav hidden-xs hidden-sm">
                                     <ul class="main__menu">
                                         <li class="drop"><a href="index.asp">Home</a></li>
-                                        <li class="drop"><a href="apple/index.asp">Apple</a>
+                                        <li class="drop"><a href="#">Apple</a>
                                             <ul class="dropdown mega_dropdown">
                                                 <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="product-grid.asp">Apple</a>
+                                                <li><a class="mega__title" href="#">Apple</a>
                                                     <ul class="mega__item">
-                                                        <li><a href="product-grid.asp">Iphone 12</a></li>
+                                                        <li><a href="">Iphone 12</a></li>
                                                         <li><a href="cart.html">Iphone 12 pro</a></li>
                                                         <li><a href="checkout.html">Iphone 12 pro max</a></li>
                                                         <li><a href="wishlist.html">Iphone 12 mini</a></li>

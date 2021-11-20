@@ -32,7 +32,7 @@
                         <div class="shp__single__product">
                             <div class="shp__pro__thumb">
                                 <a href="#">
-                                    <img src="images/product-2/sm-smg/1.jpg" alt="product images">
+                                    <img src="/coverscart/images/product-2/sm-smg/1.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="shp__pro__details">
@@ -47,7 +47,7 @@
                         <div class="shp__single__product">
                             <div class="shp__pro__thumb">
                                 <a href="#">
-                                    <img src="images/product-2/sm-smg/2.jpg" alt="product images">
+                                    <img src="/coverscart/images/product-2/sm-smg/2.jpg" alt="product images">
                                 </a>
                             </div>
                             <div class="shp__pro__details">
@@ -93,7 +93,7 @@
                             </div>
                             <div class="col-lg-6 col-sm-5 col-xs-12 col-md-5">
                                 <div class="slide__thumb">
-                                    <img src="images/slider/fornt-img/1.png" alt="slider images">
+                                    <img src="/coverscart/images/slider/fornt-img/1.png" alt="slider images">
                                 </div>
                             </div>
                         </div>
@@ -117,7 +117,7 @@
                             </div>
                             <div class="col-lg-6 col-sm-5 col-xs-12 col-md-5">
                                 <div class="slide__thumb">
-                                    <img src="images/slider/fornt-img/2.png" alt="slider images">
+                                    <img src="/coverscart/images/slider/fornt-img/2.png" alt="slider images">
                                 </div>
                             </div>
                         </div>
@@ -146,7 +146,7 @@
                                 <div class="category">
                                     <div class="ht__cat__thumb">
                                         <a href="product-details.html">
-                                            <img src="images/product/1.jpg" alt="product images">
+                                            <img src="/coverscart/images/product/1.jpg" alt="product images">
                                         </a>
                                     </div>
                                     <div class="fr__hover__info">
@@ -173,7 +173,7 @@
                                 <div class="category">
                                     <div class="ht__cat__thumb">
                                         <a href="product-details.html">
-                                            <img src="images/product/2.jpg" alt="product images">
+                                            <img src="/coverscart/images/product/2.jpg" alt="product images">
                                         </a>
                                     </div>
                                     <div class="fr__hover__info">
@@ -200,7 +200,7 @@
                                 <div class="category">
                                     <div class="ht__cat__thumb">
                                         <a href="product-details.html">
-                                            <img src="images/product/3.jpg" alt="product images">
+                                            <img src="/coverscart/images/product/3.jpg" alt="product images">
                                         </a>
                                     </div>
                                     <div class="fr__hover__info">
@@ -227,7 +227,7 @@
                                 <div class="category">
                                     <div class="ht__cat__thumb">
                                         <a href="product-details.html">
-                                            <img src="images/product/4.jpg" alt="product images">
+                                            <img src="/coverscart/images/product/4.jpg" alt="product images">
                                         </a>
                                     </div>
                                     <div class="fr__hover__info">
@@ -254,7 +254,7 @@
                                 <div class="category">
                                     <div class="ht__cat__thumb">
                                         <a href="product-details.html">
-                                            <img src="images/product/5.jpg" alt="product images">
+                                            <img src="/coverscart/images/product/5.jpg" alt="product images">
                                         </a>
                                     </div>
                                     <div class="fr__hover__info">
@@ -281,7 +281,7 @@
                                 <div class="category">
                                     <div class="ht__cat__thumb">
                                         <a href="product-details.html">
-                                            <img src="images/product/6.jpg" alt="product images">
+                                            <img src="/coverscart/images/product/6.jpg" alt="product images">
                                         </a>
                                     </div>
                                     <div class="fr__hover__info">
@@ -308,7 +308,7 @@
                                 <div class="category">
                                     <div class="ht__cat__thumb">
                                         <a href="product-details.html">
-                                            <img src="images/product/7.jpg" alt="product images">
+                                            <img src="/coverscart/images/product/7.jpg" alt="product images">
                                         </a>
                                     </div>
                                     <div class="fr__hover__info">
@@ -335,7 +335,7 @@
                                 <div class="category">
                                     <div class="ht__cat__thumb">
                                         <a href="product-details.html">
-                                            <img src="images/product/8.jpg" alt="product images">
+                                            <img src="/coverscart/images/product/8.jpg" alt="product images">
                                         </a>
                                     </div>
                                     <div class="fr__hover__info">
@@ -381,7 +381,7 @@
                             <div class="category">
                                 <div class="ht__cat__thumb">
                                     <a href="product-details.html">
-                                        <img src="images/product/9.jpg" alt="product images">
+                                        <img src="/coverscart/images/product/9.jpg" alt="product images">
                                     </a>
                                 </div>
                                 <div class="fr__hover__info">
@@ -408,7 +408,7 @@
                             <div class="category">
                                 <div class="ht__cat__thumb">
                                     <a href="product-details.html">
-                                        <img src="images/product/10.jpg" alt="product images">
+                                        <img src="/coverscart/images/product/10.jpg" alt="product images">
                                     </a>
                                 </div>
                                 <div class="fr__hover__info">
@@ -435,7 +435,7 @@
                             <div class="category">
                                 <div class="ht__cat__thumb">
                                     <a href="product-details.html">
-                                        <img src="images/product/11.jpg" alt="product images">
+                                        <img src="/coverscart/images/product/11.jpg" alt="product images">
                                     </a>
                                 </div>
                                 <div class="fr__hover__info">
@@ -462,7 +462,7 @@
                             <div class="category">
                                 <div class="ht__cat__thumb">
                                     <a href="product-details.html">
-                                        <img src="images/product/12.jpg" alt="product images">
+                                        <img src="/coverscart/images/product/12.jpg" alt="product images">
                                     </a>
                                 </div>
                                 <div class="fr__hover__info">

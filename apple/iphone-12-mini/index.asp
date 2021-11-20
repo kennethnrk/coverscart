@@ -32,7 +32,7 @@
                 <div class="shp__single__product">
                     <div class="shp__pro__thumb">
                         <a href="#">
-                            <img src="../../images/product-2/sm-smg/1.jpg" alt="product images">
+                            <img src="/coverscart/images/product-2/sm-smg/1.jpg" alt="product images">
                         </a>
                     </div>
                     <div class="shp__pro__details">
@@ -47,7 +47,7 @@
                 <div class="shp__single__product">
                     <div class="shp__pro__thumb">
                         <a href="#">
-                            <img src="../../images/product-2/sm-smg/2.jpg" alt="product images">
+                            <img src="/coverscart/images/product-2/sm-smg/2.jpg" alt="product images">
                         </a>
                     </div>
                     <div class="shp__pro__details">
@@ -74,7 +74,7 @@
 </div>
 <!-- End Offset Wrapper -->
 <!-- Start Bradcaump area -->
-<div class="ht__bradcaump__area" style="background: rgba(0, 0, 0, 0) url(images/bg/4.jpg) no-repeat scroll center center / cover ;">
+<div class="ht__bradcaump__area" style="background: rgba(0, 0, 0, 0) url(/coverscart/images/bg/4.jpg) no-repeat scroll center center / cover ;">
     <div class="ht__bradcaump__wrap">
         <div class="container">
             <div class="row">
@@ -124,7 +124,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/1.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/1.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -151,7 +151,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/2.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/2.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -178,7 +178,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/3.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/3.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -205,7 +205,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/4.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/4.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -232,7 +232,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/5.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/5.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -259,7 +259,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/6.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/6.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -286,7 +286,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/7.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/7.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -313,7 +313,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/8.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/8.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -340,7 +340,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/9.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/9.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -367,7 +367,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/10.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/10.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -394,7 +394,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/11.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/11.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -421,7 +421,7 @@
                                     <div class="category">
                                         <div class="ht__cat__thumb">
                                             <a href="product-details.html">
-                                                <img src="../../images/product/1.jpg" alt="product images">
+                                                <img src="/coverscart/images/product/1.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -450,7 +450,7 @@
                                         <!-- Start List Product -->
                                         <div class="ht__list__product">
                                             <div class="ht__list__thumb">
-                                                <a href="product-details.html"><img src="../../images/product-2/pro-1/1.jpg" alt="product images"></a>
+                                                <a href="product-details.html"><img src="/coverscart/images/product-2/pro-1/1.jpg" alt="product images"></a>
                                             </div>
                                             <div class="htc__list__details">
                                                 <h2><a href="product-details.html">Product Title Here </a></h2>
@@ -475,7 +475,7 @@
                                         <!-- Start List Product -->
                                         <div class="ht__list__product">
                                             <div class="ht__list__thumb">
-                                                <a href="product-details.html"><img src="../../images/product-2/pro-1/2.jpg" alt="product images"></a>
+                                                <a href="product-details.html"><img src="/coverscart/images/product-2/pro-1/2.jpg" alt="product images"></a>
                                             </div>
                                             <div class="htc__list__details">
                                                 <h2><a href="product-details.html">Product Title Here </a></h2>
@@ -500,7 +500,7 @@
                                         <!-- Start List Product -->
                                         <div class="ht__list__product">
                                             <div class="ht__list__thumb">
-                                                <a href="product-details.html"><img src="../../images/product-2/pro-1/3.jpg" alt="product images"></a>
+                                                <a href="product-details.html"><img src="/coverscart/images/product-2/pro-1/3.jpg" alt="product images"></a>
                                             </div>
                                             <div class="htc__list__details">
                                                 <h2><a href="product-details.html">Product Title Here </a></h2>
@@ -525,7 +525,7 @@
                                         <!-- Start List Product -->
                                         <div class="ht__list__product">
                                             <div class="ht__list__thumb">
-                                                <a href="product-details.html"><img src="../../images/product-2/pro-1/4.jpg" alt="product images"></a>
+                                                <a href="product-details.html"><img src="/coverscart/images/product-2/pro-1/4.jpg" alt="product images"></a>
                                             </div>
                                             <div class="htc__list__details">
                                                 <h2><a href="product-details.html">Product Title Here </a></h2>
@@ -566,7 +566,7 @@
                             <div class="htc__best__product">
                                 <div class="htc__best__pro__thumb">
                                     <a href="product-details.html">
-                                        <img src="../../images/product-2/sm-smg/1.jpg" alt="small product">
+                                        <img src="/coverscart/images/product-2/sm-smg/1.jpg" alt="small product">
                                     </a>
                                 </div>
                                 <div class="htc__best__product__details">
@@ -602,14 +602,14 @@
             <div class="col-md-12">
                 <div class="ht__brand__inner">
                     <ul class="brand__list owl-carousel clearfix">
-                        <li><a href="#"><img src="../../images/brand/1.png" alt="brand images"></a></li>
-                        <li><a href="#"><img src="../../images/brand/2.png" alt="brand images"></a></li>
-                        <li><a href="#"><img src="../../images/brand/3.png" alt="brand images"></a></li>
-                        <li><a href="#"><img src="../../images/brand/4.png" alt="brand images"></a></li>
-                        <li><a href="#"><img src="../../images/brand/5.png" alt="brand images"></a></li>
-                        <li><a href="#"><img src="../../images/brand/5.png" alt="brand images"></a></li>
-                        <li><a href="#"><img src="../../images/brand/1.png" alt="brand images"></a></li>
-                        <li><a href="#"><img src="../../images/brand/2.png" alt="brand images"></a></li>
+                        <li><a href="#"><img src="/coverscart/images/brand/1.png" alt="brand images"></a></li>
+                        <li><a href="#"><img src="/coverscart/images/brand/2.png" alt="brand images"></a></li>
+                        <li><a href="#"><img src="/coverscart/images/brand/3.png" alt="brand images"></a></li>
+                        <li><a href="#"><img src="/coverscart/images/brand/4.png" alt="brand images"></a></li>
+                        <li><a href="#"><img src="/coverscart/images/brand/5.png" alt="brand images"></a></li>
+                        <li><a href="#"><img src="/coverscart/images/brand/5.png" alt="brand images"></a></li>
+                        <li><a href="#"><img src="/coverscart/images/brand/1.png" alt="brand images"></a></li>
+                        <li><a href="#"><img src="/coverscart/images/brand/2.png" alt="brand images"></a></li>
                     </ul>
                 </div>
             </div>
@@ -620,14 +620,14 @@
 <!-- Start Banner Area -->
 <div class="htc__banner__area">
     <ul class="banner__list owl-carousel owl-theme clearfix">
-        <li><a href="product-details.html"><img src="../../images/banner/bn-3/1.jpg" alt="banner images"></a></li>
-        <li><a href="product-details.html"><img src="../../images/banner/bn-3/2.jpg" alt="banner images"></a></li>
-        <li><a href="product-details.html"><img src="../../images/banner/bn-3/3.jpg" alt="banner images"></a></li>
-        <li><a href="product-details.html"><img src="../../images/banner/bn-3/4.jpg" alt="banner images"></a></li>
-        <li><a href="product-details.html"><img src="../../images/banner/bn-3/5.jpg" alt="banner images"></a></li>
-        <li><a href="product-details.html"><img src="../../images/banner/bn-3/6.jpg" alt="banner images"></a></li>
-        <li><a href="product-details.html"><img src="../../images/banner/bn-3/1.jpg" alt="banner images"></a></li>
-        <li><a href="product-details.html"><img src="../../images/banner/bn-3/2.jpg" alt="banner images"></a></li>
+        <li><a href="product-details.html"><img src="/coverscart/images/banner/bn-3/1.jpg" alt="banner images"></a></li>
+        <li><a href="product-details.html"><img src="/coverscart/images/banner/bn-3/2.jpg" alt="banner images"></a></li>
+        <li><a href="product-details.html"><img src="/coverscart/images/banner/bn-3/3.jpg" alt="banner images"></a></li>
+        <li><a href="product-details.html"><img src="/coverscart/images/banner/bn-3/4.jpg" alt="banner images"></a></li>
+        <li><a href="product-details.html"><img src="/coverscart/images/banner/bn-3/5.jpg" alt="banner images"></a></li>
+        <li><a href="product-details.html"><img src="/coverscart/images/banner/bn-3/6.jpg" alt="banner images"></a></li>
+        <li><a href="product-details.html"><img src="/coverscart/images/banner/bn-3/1.jpg" alt="banner images"></a></li>
+        <li><a href="product-details.html"><img src="/coverscart/images/banner/bn-3/2.jpg" alt="banner images"></a></li>
     </ul>
 </div>
 <!-- End Banner Area -->

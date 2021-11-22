@@ -4,11 +4,11 @@
         <div class="container">
             <div class="row">
                 <!-- Start Single Footer Widget -->
-                <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="footer">
                         <h2 class="title__line--2">ABOUT US</h2>
                         <div class="ft__details">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim</p>
+                            <p>Your cover is a style statement. It reflects your personality. You wear your cover more often than your favorite outfits! We bring to our customers, affordable style statements that have been crafted with meticulous attention to detail by our in-house designers and product development team. </p>
                             <div class="ft__social__link">
                                 <ul class="social__link">
                                     <li><a href="#"><i class="icon-social-twitter icons"></i></a></li>
@@ -29,14 +29,14 @@
                 <!-- Start Single Footer Widget -->
                 <div class="col-md-2 col-sm-6 col-xs-12 xmt-40">
                     <div class="footer">
-                        <h2 class="title__line--2">information</h2>
+                        <h2 class="title__line--2">Products</h2>
                         <div class="ft__inner">
                             <ul class="ft__list">
-                                <li><a href="#">About us</a></li>
-                                <li><a href="#">Delivery Information</a></li>
-                                <li><a href="#">Privacy & Policy</a></li>
-                                <li><a href="#">Terms  & Condition</a></li>
-                                <li><a href="#">Manufactures</a></li>
+                                <li><a href="/coverscart/apple/">Apple</a></li>
+                                <li><a href="/coverscart/Samsung/">Samsung</a></li>
+                                <li><a href="/coverscart/Oneplus/">Oneplus</a></li>
+                                <li><a href="/coverscart/Xiaomi/">Xiaomi</a></li>
+                                <li><a href="/coverscart/Google/">Google</a></li>
                             </ul>
                         </div>
                     </div>
@@ -48,34 +48,19 @@
                         <h2 class="title__line--2">my account</h2>
                         <div class="ft__inner">
                             <ul class="ft__list">
-                                <li><a href="#">My Account</a></li>
-                                <li><a href="cart.html">My Cart</a></li>
-                                <li><a href="#">Login</a></li>
-                                <li><a href="wishlist.html">Wishlist</a></li>
-                                <li><a href="checkout.html">Checkout</a></li>
+                                <li><a href="/coverscart/">Home</a></li>
+                                <li><a href="/coverscart/cart.asp">My Cart</a></li>
+                                <li><a href="/coverscart/login.asp">Login</a></li>
+                                <li><a href="/coverscart/wishlist.asp">Contact Us</a></li>
+                                <li><a href="/coverscart/checkout.asp">Checkout</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
                 <!-- End Single Footer Widget -->
+                
                 <!-- Start Single Footer Widget -->
-                <div class="col-md-2 col-sm-6 col-xs-12 xmt-40 smt-40">
-                    <div class="footer">
-                        <h2 class="title__line--2">Our service</h2>
-                        <div class="ft__inner">
-                            <ul class="ft__list">
-                                <li><a href="#">My Account</a></li>
-                                <li><a href="cart.html">My Cart</a></li>
-                                <li><a href="#">Login</a></li>
-                                <li><a href="wishlist.html">Wishlist</a></li>
-                                <li><a href="checkout.html">Checkout</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- End Single Footer Widget -->
-                <!-- Start Single Footer Widget -->
-                <div class="col-md-3 col-sm-6 col-xs-12 xmt-40 smt-40">
+                <div class="col-md-4 col-sm-6 col-xs-12 xmt-40 smt-40">
                     <div class="footer">
                         <h2 class="title__line--2">NEWSLETTER </h2>
                         <div class="ft__inner">
@@ -100,7 +85,7 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="copyright__inner">
-                        <p>Copyright© <a href="https://freethemescloud.com/">Free themes Cloud</a> 2018. All right reserved.</p>
+                        <p>Copyright© Kenneth, Aksh, Soniya</p>
                         <a href="#"><img src="/coverscart/images/others/shape/paypol.png" alt="payment images"></a>
                     </div>
                 </div>

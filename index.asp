@@ -155,7 +155,7 @@
 
                                             <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                            <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="fr__product__inner">
@@ -182,7 +182,7 @@
 
                                             <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                            <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="fr__product__inner">
@@ -209,7 +209,7 @@
 
                                             <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                            <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="fr__product__inner">
@@ -236,7 +236,7 @@
 
                                             <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                            <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="fr__product__inner">
@@ -263,7 +263,7 @@
 
                                             <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                            <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="fr__product__inner">
@@ -290,7 +290,7 @@
 
                                             <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                            <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="fr__product__inner">
@@ -317,7 +317,7 @@
 
                                             <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                            <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="fr__product__inner">
@@ -344,7 +344,7 @@
 
                                             <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                            <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="fr__product__inner">
@@ -390,7 +390,7 @@
 
                                         <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                        <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                        
                                     </ul>
                                 </div>
                                 <div class="fr__product__inner">
@@ -417,7 +417,7 @@
 
                                         <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                        <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                        
                                     </ul>
                                 </div>
                                 <div class="fr__product__inner">
@@ -444,7 +444,7 @@
 
                                         <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                        <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                        
                                     </ul>
                                 </div>
                                 <div class="fr__product__inner">
@@ -471,7 +471,7 @@
 
                                         <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
 
-                                        <li><a href="#"><i class="icon-shuffle icons"></i></a></li>
+                                        
                                     </ul>
                                 </div>
                                 <div class="fr__product__inner">

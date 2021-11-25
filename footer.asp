@@ -32,11 +32,10 @@
                         <h2 class="title__line--2">Products</h2>
                         <div class="ft__inner">
                             <ul class="ft__list">
-                                <li><a href="/coverscart/apple/">Apple</a></li>
-                                <li><a href="/coverscart/Samsung/">Samsung</a></li>
-                                <li><a href="/coverscart/Oneplus/">Oneplus</a></li>
-                                <li><a href="/coverscart/Xiaomi/">Xiaomi</a></li>
-                                <li><a href="/coverscart/Google/">Google</a></li>
+                                <li><a href="/coverscart/apple/iphone-12/">Iphone 12</a></li>
+                                <li><a href="/coverscart/apple/iphone-12-pro/">Iphone 12 pro</a></li>
+                                <li><a href="/coverscart/apple/iphone-12-pro-max/">Iphone 12 pro max</a></li>
+                                <li><a href="/coverscart/apple/iphone-12-mini/">Iphone 12 mini</a></li>
                             </ul>
                         </div>
                     </div>

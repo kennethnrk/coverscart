@@ -56,87 +56,10 @@
                                 <nav class="main__menu__nav hidden-xs hidden-sm">
                                     <ul class="main__menu">
                                         <li class="drop"><a href="/coverscart/index.asp">Home</a></li>
-
-                                        <li class="drop"><a href="/coverscart/apple/">Apple</a>
-                                            <ul class="dropdown mega_dropdown">
-                                                <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="#">Apple</a>
-                                                    <ul class="mega__item">
-                                                        <li><a href="/coverscart/apple/iphone-12/">Iphone 12</a></li>
-                                                        <li><a href="/coverscart/apple/iphone-12-pro/">Iphone 12 pro</a></li>
-                                                        <li><a href="/coverscart/apple/iphone-12-pro-max/">Iphone 12 pro max</a></li>
-                                                        <li><a href="/coverscart/apple/iphone-12-mini/">Iphone 12 mini</a></li>
-                                                    </ul>
-                                                </li>
-                                                <!-- End Single Mega MEnu -->
-                                                
-                                            </ul>
-                                        </li>
-                                        
-                                        <li class="drop"><a href="/coverscart/samsung/">Samsung</a>
-                                            <ul class="dropdown mega_dropdown">
-                                                <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="#">Samsung</a>
-                                                    <ul class="mega__item">
-                                                        <li><a href="/coverscart/samsung/s21/">s21</a></li>
-                                                        <li><a href="/coverscart/samsung/s21-plus/">s21 plus</a></li>
-                                                        <li><a href="/coverscart/samsung/s21-ultra/">s21 ultra</a></li>
-                                                        <li><a href="/coverscart/samsung/s20-fe/">s20 FE</a></li>
-                                                    </ul>
-                                                </li>
-                                                <!-- End Single Mega MEnu -->
-                                                
-                                            </ul>
-                                        </li>
-
-                                        <li class="drop"><a href="/coverscart/oneplus/">Oneplus</a>
-                                            <ul class="dropdown mega_dropdown">
-                                                <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="#">Oneplus</a>
-                                                    <ul class="mega__item">
-                                                        <li><a href="/coverscart/oneplus/oneplus-9/">Oneplus 9</a></li>
-                                                        <li><a href="/coverscart/oneplus/oneplus-9-pro/">Oneplus 9 pro</a></li>
-                                                        <li><a href="/coverscart/oneplus/nord/">Nord</a></li>
-                                                        <li><a href="/coverscart/oneplus/nord-2/">Nord 2</a></li>
-                                                    </ul>
-                                                </li>
-                                                <!-- End Single Mega MEnu -->
-                                                
-                                            </ul>
-                                        </li>
-
-                                        <li class="drop"><a href="/coverscart/Xiaomi/">Xiaomi</a>
-                                            <ul class="dropdown mega_dropdown">
-                                                <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="#">Xiaomi</a>
-                                                    <ul class="mega__item">
-                                                        <li><a href="/coverscart/Xiaomi/mi-10/">Mi 10</a></li>
-                                                        <li><a href="/coverscart/Xiaomi/mi-11x/">Mi 11x</a></li>
-                                                        <li><a href="/coverscart/Xiaomi/mi-11x-pro/">Mi 11x Pro</a></li>
-                                                        <li><a href="/coverscart/Xiaomi/poco-x3/">Poco X3</a></li>
-                                                    </ul>
-                                                </li>
-                                                <!-- End Single Mega MEnu -->
-                                                
-                                            </ul>
-                                        </li>
-
-                                        <li class="drop"><a href="/coverscart/google/">Google</a>
-                                            <ul class="dropdown mega_dropdown">
-                                                <!-- Start Single Mega MEnu -->
-                                                <li><a class="mega__title" href="#">Google</a>
-                                                    <ul class="mega__item">
-                                                        <li><a href="/coverscart/google/Pixel-5/">Pixel 5</a></li>
-                                                        <li><a href="/coverscart/google/Pixel-4a/">Pixel 4a</a></li>
-                                                        <li><a href="/coverscart/google/Pixel-4-xl/">Pixel 4 XL</a></li>
-                                                    </ul>
-                                                </li>
-                                                <!-- End Single Mega MEnu -->
-                                                
-                                            </ul>
-                                        </li>
-
-                                        
+                                        <li><a href="/coverscart/apple/iphone-12/">Iphone 12</a></li>
+                                        <li><a href="/coverscart/apple/iphone-12-pro/">Iphone 12 pro</a></li>
+                                        <li><a href="/coverscart/apple/iphone-12-pro-max/">Iphone 12 pro max</a></li>
+                                        <li><a href="/coverscart/apple/iphone-12-mini/">Iphone 12 mini</a></li>
                                         <li><a href="/coverscart/contact.asp">contact</a></li>
                                     </ul>
                                 </nav>

@@ -35,8 +35,8 @@
                                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                                     <div class="category">
                                         <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/1.jpg" alt="product images">
+                                            <a href="\coverscart\apple\iphone-12-mini\iphone12mini_cover1.asp">
+                                                <img src="/coverscart/apple/coverdetails/iphone12mini_cover1.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -49,10 +49,10 @@
                                             </ul>
                                         </div>
                                         <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">Largest Water Pot</a></h4>
+                                            <h4><a href="\coverscart\apple\iphone-12-mini\iphone12mini_cover1.asp">Dark Gold Stripes Glass Back Case for iPhone 12 Mini</a></h4>
                                             <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
+                                                <li class="old__prize"><strike>₹ 650/-</strike></li>
+                                                <li>₹ 595/-</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -62,8 +62,8 @@
                                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                                     <div class="category">
                                         <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/2.jpg" alt="product images">
+                                            <a href="\coverscart\apple\iphone-12-mini\iphone12mini_cover2.asp">
+                                                <img src="/coverscart/apple/coverdetails/iphone12mini_cover2.jpg" alt="product images">
                                             </a>
                                         </div>
                                         <div class="fr__hover__info">
@@ -76,280 +76,10 @@
                                             </ul>
                                         </div>
                                         <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">Chair collection</a></h4>
+                                            <h4><a href="\coverscart\apple\iphone-12-mini\iphone12mini_cover2.asp">Electric Colors Stripe Glass Back Case for iPhone 12 Mini</a></h4>
                                             <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/3.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">dummy Product name</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/4.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">Largest Water Pot</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/5.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">Largest Water Pot</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/6.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">Special Wood Basket</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/7.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">Largest Water Pot</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/8.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">donec ac tempus nrb</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/9.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">nemo enim ipsam</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/10.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">dummy Product name</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/11.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">Chair collection</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- End Single Product -->
-                                <!-- Start Single Product -->
-                                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                                    <div class="category">
-                                        <div class="ht__cat__thumb">
-                                            <a href="product-details.html">
-                                                <img src="/coverscart/images/product/1.jpg" alt="product images">
-                                            </a>
-                                        </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
-                                        <div class="fr__product__inner">
-                                            <h4><a href="product-details.html">Largest Water Pot</a></h4>
-                                            <ul class="fr__pro__prize">
-                                                <li class="old__prize">$30.3</li>
-                                                <li>$25.9</li>
+                                                <li class="old__prize"><strike>₹ 650/-</strike></li>
+                                                <li>₹ 595/-</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -372,22 +102,16 @@
                             <!-- Start Single Product -->
                             <div class="htc__best__product">
                                 <div class="htc__best__pro__thumb">
-                                    <a href="product-details.html">
-                                        <img src="/coverscart/images/product-2/sm-smg/1.jpg" alt="small product">
+                                    <a href="\coverscart\apple\iphone-12-mini\iphone12mini_cover2.asp">
+                                        <img src="/coverscart/apple/coverdetails/iphone12mini_cover2.jpg" alt="product images">
                                     </a>
                                 </div>
                                 <div class="htc__best__product__details">
-                                    <h2><a href="product-details.html">Product Title Here</a></h2>
-                                    <ul class="rating">
-                                        <li><i class="icon-star icons"></i></li>
-                                        <li><i class="icon-star icons"></i></li>
-                                        <li><i class="icon-star icons"></i></li>
-                                        <li class="old"><i class="icon-star icons"></i></li>
-                                        <li class="old"><i class="icon-star icons"></i></li>
-                                    </ul>
+                                    <h2><a href="\coverscart\apple\iphone-12-mini\iphone12mini_cover2.asp">Electric Colors Stripe Glass Back Case</a></h2>
+                                   
                                     <ul  class="pro__prize">
-                                        <li class="old__prize">$82.5</li>
-                                        <li>$75.2</li>
+                                        <li class="old__prize"><strike>₹ 650/-</strike></li>
+                                        <li>₹ 595/-</li>
                                     </ul>
                                 </div>
                             </div>

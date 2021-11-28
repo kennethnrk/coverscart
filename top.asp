@@ -77,37 +77,6 @@
                                                     <li><a href="/coverscart/apple/iphone-12-mini/">Iphone 12 mini</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a  href="/coverscart/samsung/">Samsung</a>
-                                                <ul>
-                                                    <li><a href="/coverscart/samsung/s21/">s21</a></li>
-                                                    <li><a href="/coverscart/samsung/s21-plus/">s21 plus</a></li>
-                                                    <li><a href="/coverscart/samsung/s21-ultra/">s21 ultra</a></li>
-                                                    <li><a href="/coverscart/samsung/s20-fe/">s20 FE</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="/coverscart/oneplus/">Oneplus</a>
-                                                <ul>
-                                                    <li><a href="/coverscart/oneplus/oneplus-9/">Oneplus 9</a></li>
-                                                    <li><a href="/coverscart/oneplus/oneplus-9-pro/">Oneplus 9 pro</a></li>
-                                                    <li><a href="/coverscart/oneplus/nord/">Nord</a></li>
-                                                    <li><a href="/coverscart/oneplus/nord-2/">Nord 2</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="/coverscart/Xiaomi/">Xiaomi</a>
-                                                <ul>
-                                                    <li><a href="/coverscart/Xiaomi/mi-10/">Mi 10</a></li>
-                                                    <li><a href="/coverscart/Xiaomi/mi-11x/">Mi 11x</a></li>
-                                                    <li><a href="/coverscart/Xiaomi/mi-11x-pro/">Mi 11x Pro</a></li>
-                                                    <li><a href="/coverscart/Xiaomi/poco-x3/">Poco X3</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="/coverscart/google/">Google</a>
-                                                <ul>
-                                                    <li><a href="/coverscart/google/Pixel-5/">Pixel 5</a></li>
-                                                    <li><a href="/coverscart/google/Pixel-4a/">Pixel 4a</a></li>
-                                                    <li><a href="/coverscart/google/Pixel-4-xl/">Pixel 4 XL</a></li>
-                                                </ul>
-                                            </li>
                                             <li><a href="/coverscart/contact.asp">contact</a></li>
                                         </ul>
                                     </nav>

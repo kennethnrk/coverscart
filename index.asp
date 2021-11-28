@@ -85,8 +85,8 @@
                                     <div class="fr__product__inner">
                                         <h4><a href="apple/iphone-12/iphone12_cover1.asp">Royal Blue Glass Back Case for iPhone 12</a></h4>
                                         <ul class="fr__pro__prize">
-                                            <li class="old__prize">₹1499</li>
-                                            <li>₹595</li>
+                                            <li class="old__prize"><del>₹650</del></li>
+                                            <li>₹595/-</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -110,8 +110,8 @@
                                     <div class="fr__product__inner">
                                         <h4><a href="apple/iphone-12-pro/iphone12pro_cover1.asp">Golden Pattern Glass Back Case for iPhone 12 Pro</a></h4>
                                         <ul class="fr__pro__prize">
-                                            <li class="old__prize">₹1499</li>
-                                            <li>₹595</li>
+                                            <li class="old__prize"><del>₹650</del></li>
+                                            <li>₹595/-</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -135,8 +135,8 @@
                                     <div class="fr__product__inner">
                                         <h4><a href="apple/iphone-12-pro-max/iphone12promax_cover1.asp">Minimal Triangle Glass Back Case for iPhone 12 Pro Max</a></h4>
                                         <ul class="fr__pro__prize">
-                                            <li class="old__prize">₹1499</li>
-                                            <li>₹595</li>
+                                            <li class="old__prize"><del>₹650</del></li>
+                                            <li>₹595/-</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -160,8 +160,8 @@
                                     <div class="fr__product__inner">
                                         <h4><a href="apple/iphone-12-mini/iphone12mini_cover1.asp">Dark Gold Stripes Glass Back Case for iPhone 12 Mini</a></h4>
                                         <ul class="fr__pro__prize">
-                                            <li class="old__prize">₹1499</li>
-                                            <li>₹595</li>
+                                            <li class="old__prize"><del>₹650</del></li>
+                                            <li>₹595/-</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -204,8 +204,8 @@
                                 <div class="fr__product__inner">
                                     <h4><a href="apple/iphone-12-mini/iphone12mini_cover2.asp">Electric Colors Stripe Glass Back Case for iPhone 12 Mini</a></h4>
                                     <ul class="fr__pro__prize">
-                                        <li class="old__prize">₹1499</li>
-                                        <li>₹595</li>
+                                        <li class="old__prize"><del>₹650</del></li>
+                                        <li>₹595/-</li>
                                     </ul>
                                 </div>
                             </div>
@@ -231,8 +231,8 @@
                                 <div class="fr__product__inner">
                                     <h4><a href="apple/iphone-12-pro/iphone12pro_cover2.asp">Good Vibes Rugged Glass Back Case for iPhone 12 Pro</a></h4>
                                     <ul class="fr__pro__prize">
-                                        <li class="old__prize">₹1499</li>
-                                        <li>₹595</li>
+                                        <li class="old__prize"><del>₹650</del></li>
+                                        <li>₹595/-</li>
                                     </ul>
                                 </div>
                             </div>
@@ -258,8 +258,8 @@
                                 <div class="fr__product__inner">
                                     <h4><a href="apple/iphone-12/iphone12_cover2.asp">Red Disort Stripes Glass Back Case for iPhone 12</a></h4>
                                     <ul class="fr__pro__prize">
-                                        <li class="old__prize">₹1499</li>
-                                        <li>₹595</li>
+                                        <li class="old__prize"><del>₹650</del></li>
+                                        <li>₹595/-</li>
                                     </ul>
                                 </div>
                             </div>
@@ -285,8 +285,8 @@
                                 <div class="fr__product__inner">
                                     <h4><a href="apple/iphone-12-pro-max/iphone12promax_cover2.asp">Abstract Lines Of Blue Glass Back Case for iPhone 12 Pro Max</a></h4>
                                     <ul class="fr__pro__prize">
-                                        <li class="old__prize">₹1499</li>
-                                        <li>₹595</li>
+                                        <li class="old__prize"><del>₹650</del></li>
+                                        <li>₹595/-</li>
                                     </ul>
                                 </div>
                             </div>

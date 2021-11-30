@@ -74,7 +74,7 @@ Function remove_cart(name)
         Next
     Session("cart") = new_cart
     If UBound(new_cart) = -1 Then
-        Session.Abandon
+        Session.Contents.Remove("cart") 
     End If
 End Function
 

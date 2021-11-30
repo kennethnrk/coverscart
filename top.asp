@@ -87,7 +87,20 @@
                                    
                                     <div class="htc__shopping__cart">
                                         <a href="/coverscart/cart.asp"><i class="icon-handbag icons"></i></a>
-                                        <a href="/coverscart/cart.asp"><span class="htc__qua">2</span></a>
+                                        <a href="/coverscart/cart.asp">
+                                            <span class="htc__qua">
+                                                <%
+                                                    If IsEmpty(Session("cart"))  Then
+                                                        
+                                                        Response.Write("0")
+                                                    Else
+                                                        Response.Write(UBound(Session("cart"))+1)
+                                                        
+                                                    End If
+
+                                                    %>
+                                            </span>
+                                        </a>
                                     </div>
                                 </div>
                             </div>

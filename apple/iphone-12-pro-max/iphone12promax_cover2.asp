@@ -100,7 +100,7 @@
                 <div>
                     <h2 class="cover-info-title">Abstract Lines Of Blue Glass Back Case for iPhone 12 Pro Max</h2>
                     <p style="font-size: 30px;">Rs.  595/- <br><span style="font-size: 20px;">inclusive of all taxes</span><p>
-                    <button class="add-to-cart-button" style=" margin-top: 20px;">
+                    <button class="add-to-cart-button" style=" margin-top: 20px;" onclick="manage_cart('/coverscart/apple/coverdetails/iphone12promax_cover2.jpg','Abstract Lines Of Blue Glass Back Case for iPhone 12 Pro Max',1, 595)"> 
                         <i class="fas fa-shopping-cart" style="padding-right: 10px;"></i>ADD TO CART
                     </button>
                     <button class="wishlist">

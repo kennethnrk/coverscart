@@ -100,7 +100,7 @@
                 <div>
                     <h2 class="cover-info-title">Dark Gold Stripes Glass Back Case for iPhone 12 Mini</h2>
                     <p style="font-size: 30px;">Rs.  595/- <br><span style="font-size: 20px;">inclusive of all taxes</span><p>
-                    <button class="add-to-cart-button" style=" margin-top: 20px;">
+                    <button class="add-to-cart-button" style=" margin-top: 20px;" onclick="manage_cart('/coverscart/apple/coverdetails/iphone12mini_cover1.jpg','Dark Gold Stripes Glass Back Case for iPhone 12 Mini',1,595)"> 
                         <i class="fas fa-shopping-cart" style="padding-right: 10px;"></i>ADD TO CART
                     </button>
                     <button class="wishlist">

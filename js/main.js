@@ -431,6 +431,39 @@
 
 })(jQuery);
 
-
-
-
+function manage_cart(image, name, qty, price)
+{
+    jQuery.ajax(
+        {
+            url:'/coverscart/functions.asp',
+            type: 'post',
+            data: 'image='+image+'&name='+name+'&qty='+ qty +'&price='+ price,
+            success:function(result){
+                if(qty>0)
+                {
+                    window.location.href = window.location.href;
+                }
+                jQuery('.htc__qua').html(result);
+            
+            }
+        }
+    )
+}
+function rmov_cart(name)
+{
+    jQuery.ajax(
+        {
+            url:'/coverscart/functions.asp',
+            type: 'post',
+            data: 'name='+name+'&type=rem',
+            success:function(result){
+                if(typeof name !== 'undefined')
+                {
+                    window.location.href = window.location.href;
+                }
+                jQuery('.htc__qua').html(result);
+            
+            }
+        }
+    )
+}

@@ -39,15 +39,7 @@
                                                 <img src="/coverscart/apple/coverdetails/iphone12pro_cover1.jpg" alt="product images">
                                             </a>
                                         </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
+                                        
                                         <div class="fr__product__inner">
                                             <h4><a href="\coverscart\apple\iphone-12-pro\iphone12pro_cover1.asp">Golden Pattern Glass Back Case for iPhone 12 Pro</a></h4>
                                             <ul class="fr__pro__prize">
@@ -66,15 +58,7 @@
                                                 <img src="/coverscart/apple/coverdetails/iphone12pro_cover2.jpg" alt="product images">
                                             </a>
                                         </div>
-                                        <div class="fr__hover__info">
-                                            <ul class="product__action">
-                                                <li><a href="wishlist.html"><i class="icon-heart icons"></i></a></li>
-
-                                                <li><a href="cart.html"><i class="icon-handbag icons"></i></a></li>
-
-                                                
-                                            </ul>
-                                        </div>
+                                        
                                         <div class="fr__product__inner">
                                             <h4><a href="\coverscart\apple\iphone-12-pro\iphone12pro_cover2.asp">Good Vibes Rugged Glass Back Case for iPhone 12 Pro</a></h4>
                                             <ul class="fr__pro__prize">

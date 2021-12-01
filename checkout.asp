@@ -1,55 +1,5 @@
 <!--#include file="top.asp"-->
-            <!-- Start Cart Panel -->
-            <div class="shopping__cart">
-                <div class="shopping__cart__inner">
-                    <div class="offsetmenu__close__btn">
-                        <a href="#"><i class="zmdi zmdi-close"></i></a>
-                    </div>
-                    <div class="shp__cart__wrap">
-                        <div class="shp__single__product">
-                            <div class="shp__pro__thumb">
-                                <a href="#">
-                                    <img src="images/product-2/sm-smg/1.jpg" alt="product images">
-                                </a>
-                            </div>
-                            <div class="shp__pro__details">
-                                <h2><a href="product-details.html">BO&Play Wireless Speaker</a></h2>
-                                <span class="quantity">QTY: 1</span>
-                                <span class="shp__price">$105.00</span>
-                            </div>
-                            <div class="remove__btn">
-                                <a href="#" title="Remove this item"><i class="zmdi zmdi-close"></i></a>
-                            </div>
-                        </div>
-                        <div class="shp__single__product">
-                            <div class="shp__pro__thumb">
-                                <a href="#">
-                                    <img src="images/product-2/sm-smg/2.jpg" alt="product images">
-                                </a>
-                            </div>
-                            <div class="shp__pro__details">
-                                <h2><a href="product-details.html">Brone Candle</a></h2>
-                                <span class="quantity">QTY: 1</span>
-                                <span class="shp__price">$25.00</span>
-                            </div>
-                            <div class="remove__btn">
-                                <a href="#" title="Remove this item"><i class="zmdi zmdi-close"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                    <ul class="shoping__total">
-                        <li class="subtotal">Subtotal:</li>
-                        <li class="total__price">$130.00</li>
-                    </ul>
-                    <ul class="shopping__btn">
-                        <li><a href="cart.html">View Cart</a></li>
-                        <li class="shp__checkout"><a href="checkout.html">Checkout</a></li>
-                    </ul>
-                </div>
-            </div>
-            <!-- End Cart Panel -->
-        </div>
-        <!-- End Offset Wrapper -->
+        
         <!-- Start Bradcaump area -->
         <div class="ht__bradcaump__area" style="background: rgba(0, 0, 0, 0) url(images/bg/4.jpg) no-repeat scroll center center / cover ;">
             <div class="ht__bradcaump__wrap">
@@ -195,45 +145,59 @@
                         <div class="order-details">
                             <h5 class="order-details__title">Your Order</h5>
                             <div class="order-details__item">
+                                <%
+                                    If IsEmpty(Session("cart"))  Then
+                                %>
+                                    <script> 
+                                        window.location.replace("cart.asp");
+                                    </script>
+                                <%
+                                    Response.End
+                                    Else
+                                        
+                                        dim cart
+                                        cart = Session("cart")
+
+                                        Dim total: total = 0
+                                        Dim tax: tax = 0
+                                        Dim i
+                                        For Each i in cart
+                                        total = total + i(3)*i(2)
+                                        name = Left(i(1),20)
+                                %>   
+
                                 <div class="single-item">
                                     <div class="single-item__thumb">
-                                        <img src="images/cart/1.png" alt="ordered item">
+                                        <img src="<% Response.Write(i(0)) %>" alt="ordered item">
                                     </div>
                                     <div class="single-item__content">
-                                        <a href="#">Santa fe jacket for men</a>
-                                        <span class="price">$128</span>
+                                        <a href="#"><% Response.Write(name) %></a>
+                                        <span class="price">₹<% Response.Write(i(3)*i(2)) %></span>
                                     </div>
                                     <div class="single-item__remove">
-                                        <a href="#"><i class="zmdi zmdi-delete"></i></a>
+                                        <a onclick="rmov_cart('<% Response.Write(i(1)) %>')"><i class="zmdi zmdi-delete"></i></a>
                                     </div>
                                 </div>
-                                <div class="single-item">
-                                    <div class="single-item__thumb">
-                                        <img src="images/cart/2.png" alt="ordered item">
-                                    </div>
-                                    <div class="single-item__content">
-                                        <a href="#">Santa fe jacket for men</a>
-                                        <span class="price">$128</span>
-                                    </div>
-                                    <div class="single-item__remove">
-                                        <a href="#"><i class="zmdi zmdi-delete"></i></a>
-                                    </div>
-                                </div>
+                               <%       
+                                        Next 
+                                        tax = total*18/100
+                               %>
                             </div>
                             <div class="order-details__count">
                                 <div class="order-details__count__single">
                                     <h5>sub total</h5>
-                                    <span class="price">$909.00</span>
+                                    <span class="price">₹<% Response.Write(total) %></span>
                                 </div>
                                 <div class="order-details__count__single">
                                     <h5>Tax</h5>
-                                    <span class="price">$9.00</span>
+                                    <span class="price">₹<% Response.Write(tax) %></span>
                                 </div>
                             </div>
                             <div class="ordre-details__total">
                                 <h5>Order total</h5>
-                                <span class="price">$918.00</span>
+                                <span class="price">₹<% Response.Write(total+tax) %></span>
                             </div>
+                            <% End If %>
                         </div>
                     </div>
                 </div>

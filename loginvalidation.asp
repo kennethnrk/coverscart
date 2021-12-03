@@ -3,23 +3,33 @@
         <%
         email = Request.Form("loginemail")
         password = Request.Form("loginpassword")
+        
+        Session("nameforcheckout") = ""
+        Session("addressforcheckout") = ""
+        Session("mobileforcheckout") = ""
+        Session("emailforcheckout") = ""
 
         set conn = Server.CreateObject("ADODB.Connection")
         conn.ConnectionString="DSN=dbforcoverscart"
         conn.Open
 
         set rs = Server.CreateObject("ADODB.recordset")
-        sql = "SELECT userpassword FROM userdetails where useremail=`email`;"
+        sql = "SELECT * FROM userdetails where useremail='"&email&"';"
         rs.open sql,conn
         
-        do until rs.EOF
-            for each x in rs.Fields 
-                if password = x.value then
-                    Response.write(x.value)
-                end if
-            next
-            rs.MoveNext
-        loop
+        if rs.EOF then
+            Response.Redirect "loginerror.asp"
+        else 
+            if password = rs("userpassword") then
+                Session("nameforcheckout") = rs("username")
+                Session("addressforcheckout") = rs("useraddress")
+                Session("mobileforcheckout") = rs("usermobile")
+                Session("emailforcheckout") = rs("useremail")
+                Response.Redirect "loginsuccess.asp"
+            else 
+                Response.Redirect "loginerror.asp"
+            end if
+        end if
 
         rs.close
         Set rs=Nothing

@@ -32,10 +32,10 @@
                         <h2 class="title__line--2">Products</h2>
                         <div class="ft__inner">
                             <ul class="ft__list">
-                                <li><a href="/coverscart/apple/iphone-12/">Iphone 12</a></li>
-                                <li><a href="/coverscart/apple/iphone-12-pro/">Iphone 12 pro</a></li>
-                                <li><a href="/coverscart/apple/iphone-12-pro-max/">Iphone 12 pro max</a></li>
-                                <li><a href="/coverscart/apple/iphone-12-mini/">Iphone 12 mini</a></li>
+                                <li><a href="/coverscart/apple/iphone-12/index.asp">Iphone 12</a></li>
+                                <li><a href="/coverscart/apple/iphone-12-pro/index.asp">Iphone 12 pro</a></li>
+                                <li><a href="/coverscart/apple/iphone-12-pro-max/index.asp">Iphone 12 pro max</a></li>
+                                <li><a href="/coverscart/apple/iphone-12-mini/index.asp">Iphone 12 mini</a></li>
                             </ul>
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                         <h2 class="title__line--2">my account</h2>
                         <div class="ft__inner">
                             <ul class="ft__list">
-                                <li><a href="/coverscart/">Home</a></li>
+                                <li><a href="/coverscart/index.asp">Home</a></li>
                                 <li><a href="/coverscart/cart.asp">My Cart</a></li>
                                 <li><a href="/coverscart/login.asp">Login</a></li>
                                 <li><a href="/coverscart/wishlist.asp">Contact Us</a></li>

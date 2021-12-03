@@ -56,10 +56,10 @@
                                 <nav class="main__menu__nav hidden-xs hidden-sm">
                                     <ul class="main__menu">
                                         <li class="drop"><a href="/coverscart/index.asp">Home</a></li>
-                                        <li><a href="/coverscart/apple/iphone-12/">Iphone 12</a></li>
-                                        <li><a href="/coverscart/apple/iphone-12-pro/">Iphone 12 pro</a></li>
-                                        <li><a href="/coverscart/apple/iphone-12-pro-max/">Iphone 12 pro max</a></li>
-                                        <li><a href="/coverscart/apple/iphone-12-mini/">Iphone 12 mini</a></li>
+                                        <li><a href="/coverscart/apple/iphone-12/index.asp">Iphone 12</a></li>
+                                        <li><a href="/coverscart/apple/iphone-12-pro/index.asp">Iphone 12 pro</a></li>
+                                        <li><a href="/coverscart/apple/iphone-12-pro-max/index.asp">Iphone 12 pro max</a></li>
+                                        <li><a href="/coverscart/apple/iphone-12-mini/index.asp">Iphone 12 mini</a></li>
                                         <li><a href="/coverscart/contact.asp">contact</a></li>
                                     </ul>
                                 </nav>
@@ -71,10 +71,10 @@
                                            
                                             <li><a  href="/coverscart/apple/">Apple</a>
                                                 <ul>
-                                                    <li><a href="/coverscart/apple/iphone-12/">Iphone 12</a></li>
-                                                    <li><a href="/coverscart/apple/iphone-12-pro/">Iphone 12 pro</a></li>
-                                                    <li><a href="/coverscart/apple/iphone-12-pro-max/">Iphone 12 pro max</a></li>
-                                                    <li><a href="/coverscart/apple/iphone-12-mini/">Iphone 12 mini</a></li>
+                                                    <li><a href="/coverscart/apple/iphone-12/index.asp">Iphone 12</a></li>
+                                                    <li><a href="/coverscart/apple/iphone-12-pro/index.asp">Iphone 12 pro</a></li>
+                                                    <li><a href="/coverscart/apple/iphone-12-pro-max/index.asp">Iphone 12 pro max</a></li>
+                                                    <li><a href="/coverscart/apple/iphone-12-mini/index.asp">Iphone 12 mini</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="/coverscart/contact.asp">contact</a></li>

@@ -31,112 +31,46 @@
                                         Checkout Method
                                     </div>
                                     <div class="accordion__body">
-                                        <div class="accordion__body__form">
-                                            <div class="row">
-                                                <div class="col-md-6">
-                                                    <div class="checkout-method__login">
-                                                        <form action="#">
-                                                            <h5 class="checkout-method__title">Login</h5>
-                                                            <div class="single-input">
-                                                                <label for="user-email">Email Address</label>
-                                                                <input type="email" id="user-email">
-                                                            </div>
-                                                            <div class="single-input">
-                                                                <label for="user-pass">Password</label>
-                                                                <input type="password" id="user-pass">
-                                                            </div>
-                                                            <p class="require">* Required fields</p>
-                                                            <div class="dark-btn">
-                                                                <a href="#">LogIn</a>
-                                                            </div>
-                                                        </form>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-6">
-                                                    <div class="checkout-method__login">
-                                                        <form action="#">
-                                                            <h5 class="checkout-method__title">Register</h5>
-                                                            <div class="single-input">
-                                                                <label for="user-email">Name</label>
-                                                                <input type="email" id="user-email">
-                                                            </div>
-															<div class="single-input">
-                                                                <label for="user-email">Email Address</label>
-                                                                <input type="email" id="user-email">
-                                                            </div>
-															
-                                                            <div class="single-input">
-                                                                <label for="user-pass">Password</label>
-                                                                <input type="password" id="user-pass">
-                                                            </div>
-                                                            <div class="dark-btn">
-                                                                <a href="#">Register</a>
-                                                            </div>
-                                                        </form>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        <%
+                                            if NOT IsEmpty(Session("nameforcheckout")) Then
+                                            
+                                                %><h2 style="text-align: center;">Logged in as <%Response.Write(Session("nameforcheckout"))%></h2>
+                                                <%  
+                                                %><h4 style="text-align: center;">Not <%Response.Write(Session("nameforcheckout"))%>?<a href="<%Response.Write("logout.asp")%>"><u>Logout?</u></a> </h4>
+                                    </div>            
+                                                <%  
+                                            else
+                                                %><h2 style="text-align: center;"><a href="<%Response.Write("login.asp")%>">Login/Register</a> </h2>
                                     </div>
-                                    <div class="accordion__title">
-                                        Address Information
-                                    </div>
-                                    <div class="accordion__body">
-                                        <div class="bilinfo">
-                                            <form action="#">
-                                                <div class="row">
-                                                    <div class="col-md-12">
-                                                        <div class="single-input">
-                                                            <input type="text" placeholder="First name">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-12">
-                                                        <div class="single-input">
-                                                            <input type="text" placeholder="Street Address">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-12">
-                                                        <div class="single-input">
-                                                            <input type="text" placeholder="Apartment/Block/House (optional)">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="single-input">
-                                                            <input type="text" placeholder="City/State">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="single-input">
-                                                            <input type="text" placeholder="Post code/ zip">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="single-input">
-                                                            <input type="email" placeholder="Email address">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="single-input">
-                                                            <input type="text" placeholder="Phone number">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
+                                                <%
+                                            End If
+                                        %>
+                                    
+                                <%
+                                    If NOT IsEmpty(Session("nameforcheckout")) Then
+                                %>                
                                     <div class="accordion__title">
                                         payment information
                                     </div>
                                     <div class="accordion__body">
                                         <div class="paymentinfo">
                                             <div class="single-method">
-                                                <a href="#"><i class="zmdi zmdi-long-arrow-right"></i>Check/ Money Order</a>
+                                                <a href="checkoutfunctions.asp?payment=COD"><i class="zmdi zmdi-long-arrow-right"></i>Cash On Delivery</a>
                                             </div>
                                             <div class="single-method">
-                                                <a href="#" class="paymentinfo-credit-trigger"><i class="zmdi zmdi-long-arrow-right"></i>Credit Card</a>
+                                                <a href="checkoutfunctions.asp?payment=CreditCard" ><i class="zmdi zmdi-long-arrow-right"></i>Credit Card</a>
+                                            </div>
+                                            <div class="single-method">
+                                                <a href="checkoutfunctions.asp?payment=DebitCard" ><i class="zmdi zmdi-long-arrow-right"></i>Debit Card</a>
+                                            </div>
+                                            <div class="single-method">
+                                                <a href="checkoutfunctions.asp?payment=UPI" ><i class="zmdi zmdi-long-arrow-right"></i>UPI</a>
                                             </div>
                                         </div>
                                     </div>
+                                <%
+                                    End If
+                                %>
                                 </div>
                             </div>
                         </div>

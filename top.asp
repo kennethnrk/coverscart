@@ -84,7 +84,19 @@
                             </div>
                             <div class="col-md-3 col-lg-2 col-sm-4 col-xs-4">
                                 <div class="header__right">
-                                   
+                                    <div class="header__account">
+                                            <%
+                                            if NOT IsEmpty(Session("nameforcheckout")) Then
+                                            
+                                                %><a href="<%Response.Write("logout.asp")%>">Logout</a> 
+                                                <%  
+                                            else
+                                                %><a href="<%Response.Write("login.asp")%>">Login/Register</a> 
+                                                <%
+                                            End If
+                                            %>
+                                        
+                                    </div>
                                     <div class="htc__shopping__cart">
                                         <a href="/coverscart/cart.asp"><i class="icon-handbag icons"></i></a>
                                         <a href="/coverscart/cart.asp">

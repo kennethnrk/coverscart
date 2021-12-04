@@ -8,6 +8,7 @@
         Session("addressforcheckout") = ""
         Session("mobileforcheckout") = ""
         Session("emailforcheckout") = ""
+        Session("idforcheckout") = ""
 
         set conn = Server.CreateObject("ADODB.Connection")
         conn.ConnectionString="DSN=dbforcoverscart"
@@ -25,6 +26,7 @@
                 Session("addressforcheckout") = rs("useraddress")
                 Session("mobileforcheckout") = rs("usermobile")
                 Session("emailforcheckout") = rs("useremail")
+                Session("idforcheckout") =  rs("ID")
                 Response.Redirect "loginsuccess.asp"
             else 
                 Response.Redirect "loginerror.asp"

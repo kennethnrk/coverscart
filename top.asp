@@ -88,10 +88,10 @@
                                             <%
                                             if NOT IsEmpty(Session("nameforcheckout")) Then
                                             
-                                                %><a href="<%Response.Write("logout.asp")%>">Logout</a> 
+                                                %><a href="/coverscart/logout.asp">Logout</a> 
                                                 <%  
                                             else
-                                                %><a href="<%Response.Write("login.asp")%>">Login/Register</a> 
+                                                %><a href="/coverscart/login.asp">Login/Register</a> 
                                                 <%
                                             End If
                                             %>

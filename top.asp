@@ -86,7 +86,7 @@
                                 <div class="header__right">
                                     <div class="header__account">
                                             <%
-                                            if NOT IsEmpty(Session("nameforcheckout")) Then
+                                            if NOT IsEmpty(Session("nameforcheckout")) AND Session("nameforcheckout") <> "" Then
                                             
                                                 %><a href="/coverscart/logout.asp">Logout</a> 
                                                 <%  

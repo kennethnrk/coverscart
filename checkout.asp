@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="accordion__body">
                                         <%
-                                            if NOT IsEmpty(Session("nameforcheckout")) Then
+                                            if NOT IsEmpty(Session("nameforcheckout")) AND Session("nameforcheckout") <> "" Then
                                             
                                                 %><h2 style="text-align: center;">Logged in as <%Response.Write(Session("nameforcheckout"))%></h2>
                                                 <%  
@@ -47,7 +47,7 @@
                                         %>
                                     
                                 <%
-                                    If NOT IsEmpty(Session("nameforcheckout")) Then
+                                    If NOT IsEmpty(Session("nameforcheckout")) AND Session("nameforcheckout") <> "" Then
                                 %>                
                                     <div class="accordion__title">
                                         payment information

@@ -1,6 +1,6 @@
 <!-- #include virtual="coverscart/top.asp" -->
     <%
-        If NOT IsEmpty(Session("nameforcheckout"))  Then
+        If NOT IsEmpty(Session("nameforcheckout")) AND Session("nameforcheckout") <> ""  Then
             Response.Redirect "loginsuccess.asp"
         End If
     %>
